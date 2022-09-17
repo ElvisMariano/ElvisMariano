@@ -3,7 +3,6 @@
 - 🔭 Hoje trabalho com automações de processos (RPA)
 - 🌱 Atualmente estudo Analise e Desenvolvimento de Sistemas (ADS)
 - 📫 Contate-me no email: admelvismariano@gmail.com
-- 😄 Pronomes: Ele/Dele
 
 <div align="center">
   <a href="https://github.com/elvismariano">
